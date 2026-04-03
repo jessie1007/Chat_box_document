@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Local model files
+*.gguf
+
+# Generated vector store data
+vectorstore/db_faiss/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
